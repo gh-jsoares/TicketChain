@@ -1,0 +1,9 @@
+[submodule "TicketChain-API"]
+	path = TicketChain-API
+	url = git@github.com:gh-jsoares/TicketChain-Api.git
+[submodule "TicketChain-User"]
+	path = TicketChain-User
+	url = git@github.com:gh-jsoares/TicketChain-User.git
+[submodule "TicketChain-Worker"]
+	path = TicketChain-Worker
+	url = git@github.com:gh-jsoares/TicketChain-Worker.git
